@@ -1,0 +1,3106 @@
+[
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067578+00:00",
+    "counter": 197,
+    "pressure_upstream": 80.6,
+    "pressure_downstream": 71.9,
+    "flow_rate": 36.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065350+00:00",
+    "counter": 80,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066208+00:00",
+    "counter": 132,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065471+00:00",
+    "counter": 88,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071689+00:00",
+    "counter": 267,
+    "pressure_upstream": 75.1,
+    "pressure_downstream": 41.0,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065335+00:00",
+    "counter": 78,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 71.4,
+    "flow_rate": 43.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068720+00:00",
+    "counter": 234,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 72.4,
+    "flow_rate": 31.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064394+00:00",
+    "counter": 8,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064208+00:00",
+    "counter": 1,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 72.6,
+    "flow_rate": 37.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067410+00:00",
+    "counter": 190,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 69.0,
+    "flow_rate": 31.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071041+00:00",
+    "counter": 243,
+    "pressure_upstream": 87.0,
+    "pressure_downstream": 44.5,
+    "flow_rate": 37.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066723+00:00",
+    "counter": 157,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 69.6,
+    "flow_rate": 42.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072971+00:00",
+    "counter": 312,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064881+00:00",
+    "counter": 48,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075901+00:00",
+    "counter": 377,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 71.8,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075491+00:00",
+    "counter": 368,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066436+00:00",
+    "counter": 144,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067423+00:00",
+    "counter": 192,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076243+00:00",
+    "counter": 387,
+    "pressure_upstream": 84.7,
+    "pressure_downstream": 40.5,
+    "flow_rate": 36.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075626+00:00",
+    "counter": 372,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064525+00:00",
+    "counter": 18,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 70.4,
+    "flow_rate": 33.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068832+00:00",
+    "counter": 239,
+    "pressure_upstream": 78.5,
+    "pressure_downstream": 38.6,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064366+00:00",
+    "counter": 5,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 71.0,
+    "flow_rate": 39.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067664+00:00",
+    "counter": 201,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 71.1,
+    "flow_rate": 39.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071782+00:00",
+    "counter": 269,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 69.3,
+    "flow_rate": 42.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067001+00:00",
+    "counter": 171,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 37.1,
+    "flow_rate": 36.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066568+00:00",
+    "counter": 149,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 69.9,
+    "flow_rate": 41.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066131+00:00",
+    "counter": 127,
+    "pressure_upstream": 76.0,
+    "pressure_downstream": 43.5,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064680+00:00",
+    "counter": 32,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064565+00:00",
+    "counter": 21,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 69.3,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066359+00:00",
+    "counter": 140,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064960+00:00",
+    "counter": 52,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076237+00:00",
+    "counter": 386,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 69.8,
+    "flow_rate": 34.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072250+00:00",
+    "counter": 287,
+    "pressure_upstream": 83.8,
+    "pressure_downstream": 43.3,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065586+00:00",
+    "counter": 95,
+    "pressure_upstream": 75.0,
+    "pressure_downstream": 32.1,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067327+00:00",
+    "counter": 187,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 47.0,
+    "flow_rate": 39.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064620+00:00",
+    "counter": 26,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 70.7,
+    "flow_rate": 44.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067597+00:00",
+    "counter": 200,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067069+00:00",
+    "counter": 173,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 72.4,
+    "flow_rate": 36.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067684+00:00",
+    "counter": 204,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068430+00:00",
+    "counter": 221,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 70.4,
+    "flow_rate": 38.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065099+00:00",
+    "counter": 61,
+    "pressure_upstream": 80.3,
+    "pressure_downstream": 71.9,
+    "flow_rate": 37.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065933+00:00",
+    "counter": 116,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074368+00:00",
+    "counter": 339,
+    "pressure_upstream": 86.0,
+    "pressure_downstream": 48.6,
+    "flow_rate": 37.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074247+00:00",
+    "counter": 336,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066810+00:00",
+    "counter": 162,
+    "pressure_upstream": 80.2,
+    "pressure_downstream": 71.8,
+    "flow_rate": 33.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064945+00:00",
+    "counter": 50,
+    "pressure_upstream": 82.6,
+    "pressure_downstream": 72.4,
+    "flow_rate": 48.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068544+00:00",
+    "counter": 228,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067234+00:00",
+    "counter": 181,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 71.5,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068625+00:00",
+    "counter": 230,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 69.3,
+    "flow_rate": 44.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074123+00:00",
+    "counter": 332,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071140+00:00",
+    "counter": 246,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 71.4,
+    "flow_rate": 31.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075131+00:00",
+    "counter": 358,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 69.5,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066512+00:00",
+    "counter": 148,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074491+00:00",
+    "counter": 342,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 70.3,
+    "flow_rate": 49.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064532+00:00",
+    "counter": 19,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 37.1,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065464+00:00",
+    "counter": 87,
+    "pressure_upstream": 94.3,
+    "pressure_downstream": 35.4,
+    "flow_rate": 40.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067851+00:00",
+    "counter": 209,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 68.9,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064494+00:00",
+    "counter": 16,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071562+00:00",
+    "counter": 261,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 71.3,
+    "flow_rate": 38.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074665+00:00",
+    "counter": 345,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 71.3,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073733+00:00",
+    "counter": 323,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 36.2,
+    "flow_rate": 36.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065159+00:00",
+    "counter": 66,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 71.5,
+    "flow_rate": 37.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065411+00:00",
+    "counter": 84,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066201+00:00",
+    "counter": 131,
+    "pressure_upstream": 77.8,
+    "pressure_downstream": 39.1,
+    "flow_rate": 37.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071798+00:00",
+    "counter": 271,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 36.0,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072016+00:00",
+    "counter": 278,
+    "pressure_upstream": 81.6,
+    "pressure_downstream": 71.9,
+    "flow_rate": 43.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074855+00:00",
+    "counter": 351,
+    "pressure_upstream": 86.7,
+    "pressure_downstream": 39.9,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073885+00:00",
+    "counter": 326,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 70.4,
+    "flow_rate": 46.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065637+00:00",
+    "counter": 97,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 71.4,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066929+00:00",
+    "counter": 168,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067864+00:00",
+    "counter": 211,
+    "pressure_upstream": 94.4,
+    "pressure_downstream": 43.0,
+    "flow_rate": 36.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074847+00:00",
+    "counter": 350,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 70.3,
+    "flow_rate": 35.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075276+00:00",
+    "counter": 361,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 70.8,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074116+00:00",
+    "counter": 331,
+    "pressure_upstream": 88.0,
+    "pressure_downstream": 31.3,
+    "flow_rate": 41.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068619+00:00",
+    "counter": 229,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 69.8,
+    "flow_rate": 37.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064866+00:00",
+    "counter": 46,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 68.8,
+    "flow_rate": 36.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067163+00:00",
+    "counter": 179,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 45.2,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067339+00:00",
+    "counter": 188,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073724+00:00",
+    "counter": 322,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 71.1,
+    "flow_rate": 32.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065650+00:00",
+    "counter": 99,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 34.5,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068531+00:00",
+    "counter": 226,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 69.0,
+    "flow_rate": 46.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075138+00:00",
+    "counter": 359,
+    "pressure_upstream": 75.3,
+    "pressure_downstream": 31.6,
+    "flow_rate": 42.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064539+00:00",
+    "counter": 20,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065397+00:00",
+    "counter": 82,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 71.8,
+    "flow_rate": 42.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065403+00:00",
+    "counter": 83,
+    "pressure_upstream": 77.8,
+    "pressure_downstream": 47.7,
+    "flow_rate": 36.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067500+00:00",
+    "counter": 195,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 37.5,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065524+00:00",
+    "counter": 91,
+    "pressure_upstream": 88.1,
+    "pressure_downstream": 31.2,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066352+00:00",
+    "counter": 139,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 45.6,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072957+00:00",
+    "counter": 310,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 70.1,
+    "flow_rate": 49.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072023+00:00",
+    "counter": 279,
+    "pressure_upstream": 84.3,
+    "pressure_downstream": 37.4,
+    "flow_rate": 41.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066839+00:00",
+    "counter": 164,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072128+00:00",
+    "counter": 282,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 71.3,
+    "flow_rate": 34.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075012+00:00",
+    "counter": 356,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065213+00:00",
+    "counter": 70,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 69.0,
+    "flow_rate": 49.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066582+00:00",
+    "counter": 151,
+    "pressure_upstream": 79.0,
+    "pressure_downstream": 35.0,
+    "flow_rate": 37.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075755+00:00",
+    "counter": 375,
+    "pressure_upstream": 83.4,
+    "pressure_downstream": 43.8,
+    "flow_rate": 42.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065172+00:00",
+    "counter": 68,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067240+00:00",
+    "counter": 182,
+    "pressure_upstream": 82.5,
+    "pressure_downstream": 70.5,
+    "flow_rate": 47.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066504+00:00",
+    "counter": 147,
+    "pressure_upstream": 79.0,
+    "pressure_downstream": 43.2,
+    "flow_rate": 37.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073230+00:00",
+    "counter": 320,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066817+00:00",
+    "counter": 163,
+    "pressure_upstream": 88.0,
+    "pressure_downstream": 30.1,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064938+00:00",
+    "counter": 49,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 69.0,
+    "flow_rate": 38.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072257+00:00",
+    "counter": 288,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073069+00:00",
+    "counter": 313,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 71.5,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075923+00:00",
+    "counter": 379,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 41.8,
+    "flow_rate": 42.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065845+00:00",
+    "counter": 111,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 39.5,
+    "flow_rate": 39.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072473+00:00",
+    "counter": 294,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 71.9,
+    "flow_rate": 46.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075742+00:00",
+    "counter": 373,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 69.2,
+    "flow_rate": 41.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067510+00:00",
+    "counter": 196,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066429+00:00",
+    "counter": 143,
+    "pressure_upstream": 93.7,
+    "pressure_downstream": 45.1,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075936+00:00",
+    "counter": 380,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065006+00:00",
+    "counter": 55,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 31.8,
+    "flow_rate": 37.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076103+00:00",
+    "counter": 383,
+    "pressure_upstream": 92.4,
+    "pressure_downstream": 33.9,
+    "flow_rate": 38.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072361+00:00",
+    "counter": 290,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 69.5,
+    "flow_rate": 45.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066139+00:00",
+    "counter": 128,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068713+00:00",
+    "counter": 233,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 70.9,
+    "flow_rate": 42.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072135+00:00",
+    "counter": 283,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 44.7,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065058+00:00",
+    "counter": 59,
+    "pressure_upstream": 87.0,
+    "pressure_downstream": 31.0,
+    "flow_rate": 40.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064432+00:00",
+    "counter": 10,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 69.8,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066803+00:00",
+    "counter": 161,
+    "pressure_upstream": 82.8,
+    "pressure_downstream": 72.0,
+    "flow_rate": 36.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074239+00:00",
+    "counter": 335,
+    "pressure_upstream": 94.8,
+    "pressure_downstream": 36.0,
+    "flow_rate": 40.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073741+00:00",
+    "counter": 324,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066261+00:00",
+    "counter": 133,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 71.5,
+    "flow_rate": 36.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067857+00:00",
+    "counter": 210,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 69.6,
+    "flow_rate": 42.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072845+00:00",
+    "counter": 308,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071917+00:00",
+    "counter": 275,
+    "pressure_upstream": 80.6,
+    "pressure_downstream": 38.0,
+    "flow_rate": 40.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072010+00:00",
+    "counter": 277,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 70.4,
+    "flow_rate": 41.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064385+00:00",
+    "counter": 7,
+    "pressure_upstream": 92.3,
+    "pressure_downstream": 33.2,
+    "flow_rate": 36.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072586+00:00",
+    "counter": 298,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 72.3,
+    "flow_rate": 33.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065764+00:00",
+    "counter": 105,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 69.4,
+    "flow_rate": 39.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067957+00:00",
+    "counter": 214,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 70.3,
+    "flow_rate": 48.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071461+00:00",
+    "counter": 258,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 70.4,
+    "flow_rate": 38.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064806+00:00",
+    "counter": 41,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 71.0,
+    "flow_rate": 37.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067493+00:00",
+    "counter": 194,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 70.0,
+    "flow_rate": 35.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072708+00:00",
+    "counter": 303,
+    "pressure_upstream": 86.6,
+    "pressure_downstream": 35.7,
+    "flow_rate": 40.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065342+00:00",
+    "counter": 79,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 39.1,
+    "flow_rate": 36.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065278+00:00",
+    "counter": 75,
+    "pressure_upstream": 75.3,
+    "pressure_downstream": 49.3,
+    "flow_rate": 42.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068450+00:00",
+    "counter": 224,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076093+00:00",
+    "counter": 382,
+    "pressure_upstream": 83.2,
+    "pressure_downstream": 70.2,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065220+00:00",
+    "counter": 71,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 47.9,
+    "flow_rate": 39.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074102+00:00",
+    "counter": 329,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 71.2,
+    "flow_rate": 40.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065987+00:00",
+    "counter": 118,
+    "pressure_upstream": 81.6,
+    "pressure_downstream": 68.8,
+    "flow_rate": 30.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064479+00:00",
+    "counter": 14,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 72.6,
+    "flow_rate": 44.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064999+00:00",
+    "counter": 54,
+    "pressure_upstream": 79.5,
+    "pressure_downstream": 69.0,
+    "flow_rate": 41.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075912+00:00",
+    "counter": 378,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 71.4,
+    "flow_rate": 47.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067075+00:00",
+    "counter": 174,
+    "pressure_upstream": 82.9,
+    "pressure_downstream": 71.1,
+    "flow_rate": 46.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066188+00:00",
+    "counter": 129,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 70.4,
+    "flow_rate": 40.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067253+00:00",
+    "counter": 184,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064571+00:00",
+    "counter": 22,
+    "pressure_upstream": 82.6,
+    "pressure_downstream": 71.7,
+    "flow_rate": 42.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071910+00:00",
+    "counter": 274,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 68.7,
+    "flow_rate": 44.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074998+00:00",
+    "counter": 354,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 72.0,
+    "flow_rate": 37.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064819+00:00",
+    "counter": 43,
+    "pressure_upstream": 90.6,
+    "pressure_downstream": 33.4,
+    "flow_rate": 41.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068337+00:00",
+    "counter": 218,
+    "pressure_upstream": 82.8,
+    "pressure_downstream": 72.1,
+    "flow_rate": 46.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074484+00:00",
+    "counter": 341,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 71.0,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064770+00:00",
+    "counter": 39,
+    "pressure_upstream": 79.1,
+    "pressure_downstream": 41.9,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071360+00:00",
+    "counter": 255,
+    "pressure_upstream": 85.2,
+    "pressure_downstream": 42.0,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075289+00:00",
+    "counter": 363,
+    "pressure_upstream": 87.5,
+    "pressure_downstream": 48.2,
+    "flow_rate": 41.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068443+00:00",
+    "counter": 223,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 35.0,
+    "flow_rate": 36.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072718+00:00",
+    "counter": 304,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064447+00:00",
+    "counter": 12,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071243+00:00",
+    "counter": 250,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 68.8,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072702+00:00",
+    "counter": 302,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 70.7,
+    "flow_rate": 44.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065207+00:00",
+    "counter": 69,
+    "pressure_upstream": 82.5,
+    "pressure_downstream": 69.6,
+    "flow_rate": 40.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067315+00:00",
+    "counter": 185,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 70.5,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075125+00:00",
+    "counter": 357,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 69.9,
+    "flow_rate": 40.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068733+00:00",
+    "counter": 235,
+    "pressure_upstream": 78.8,
+    "pressure_downstream": 39.8,
+    "flow_rate": 38.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071236+00:00",
+    "counter": 249,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 71.2,
+    "flow_rate": 38.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075612+00:00",
+    "counter": 370,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 72.0,
+    "flow_rate": 44.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067089+00:00",
+    "counter": 176,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072813+00:00",
+    "counter": 305,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 71.5,
+    "flow_rate": 40.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072837+00:00",
+    "counter": 307,
+    "pressure_upstream": 91.6,
+    "pressure_downstream": 33.0,
+    "flow_rate": 42.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065285+00:00",
+    "counter": 76,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075469+00:00",
+    "counter": 365,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 70.0,
+    "flow_rate": 39.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071367+00:00",
+    "counter": 256,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073196+00:00",
+    "counter": 318,
+    "pressure_upstream": 80.0,
+    "pressure_downstream": 70.9,
+    "flow_rate": 37.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067008+00:00",
+    "counter": 172,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071903+00:00",
+    "counter": 273,
+    "pressure_upstream": 80.3,
+    "pressure_downstream": 69.5,
+    "flow_rate": 39.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064722+00:00",
+    "counter": 35,
+    "pressure_upstream": 84.6,
+    "pressure_downstream": 40.6,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072696+00:00",
+    "counter": 301,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 69.0,
+    "flow_rate": 41.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067082+00:00",
+    "counter": 175,
+    "pressure_upstream": 80.6,
+    "pressure_downstream": 34.5,
+    "flow_rate": 38.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065925+00:00",
+    "counter": 115,
+    "pressure_upstream": 93.3,
+    "pressure_downstream": 39.0,
+    "flow_rate": 41.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072375+00:00",
+    "counter": 292,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065713+00:00",
+    "counter": 103,
+    "pressure_upstream": 88.6,
+    "pressure_downstream": 30.2,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073989+00:00",
+    "counter": 328,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073877+00:00",
+    "counter": 325,
+    "pressure_upstream": 80.4,
+    "pressure_downstream": 70.6,
+    "flow_rate": 39.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064673+00:00",
+    "counter": 31,
+    "pressure_upstream": 76.2,
+    "pressure_downstream": 40.5,
+    "flow_rate": 40.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072600+00:00",
+    "counter": 300,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074376+00:00",
+    "counter": 340,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073708+00:00",
+    "counter": 321,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 69.7,
+    "flow_rate": 38.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067170+00:00",
+    "counter": 180,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065512+00:00",
+    "counter": 89,
+    "pressure_upstream": 79.3,
+    "pressure_downstream": 72.2,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065993+00:00",
+    "counter": 119,
+    "pressure_upstream": 85.0,
+    "pressure_downstream": 32.5,
+    "flow_rate": 38.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064612+00:00",
+    "counter": 25,
+    "pressure_upstream": 80.0,
+    "pressure_downstream": 71.8,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066492+00:00",
+    "counter": 145,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 69.8,
+    "flow_rate": 36.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065119+00:00",
+    "counter": 64,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067765+00:00",
+    "counter": 207,
+    "pressure_upstream": 76.3,
+    "pressure_downstream": 36.9,
+    "flow_rate": 36.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071468+00:00",
+    "counter": 259,
+    "pressure_upstream": 79.2,
+    "pressure_downstream": 39.5,
+    "flow_rate": 41.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067590+00:00",
+    "counter": 199,
+    "pressure_upstream": 93.6,
+    "pressure_downstream": 36.0,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066995+00:00",
+    "counter": 170,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 71.3,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073981+00:00",
+    "counter": 327,
+    "pressure_upstream": 95.0,
+    "pressure_downstream": 43.8,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072353+00:00",
+    "counter": 289,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 70.9,
+    "flow_rate": 37.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071147+00:00",
+    "counter": 247,
+    "pressure_upstream": 89.1,
+    "pressure_downstream": 47.8,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065013+00:00",
+    "counter": 56,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074355+00:00",
+    "counter": 337,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 72.0,
+    "flow_rate": 38.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064233+00:00",
+    "counter": 2,
+    "pressure_upstream": 83.2,
+    "pressure_downstream": 70.3,
+    "flow_rate": 37.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067986+00:00",
+    "counter": 215,
+    "pressure_upstream": 75.6,
+    "pressure_downstream": 46.7,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067487+00:00",
+    "counter": 193,
+    "pressure_upstream": 80.6,
+    "pressure_downstream": 71.6,
+    "flow_rate": 38.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071575+00:00",
+    "counter": 263,
+    "pressure_upstream": 93.2,
+    "pressure_downstream": 30.7,
+    "flow_rate": 39.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065980+00:00",
+    "counter": 117,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 71.3,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066921+00:00",
+    "counter": 167,
+    "pressure_upstream": 91.6,
+    "pressure_downstream": 41.5,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075283+00:00",
+    "counter": 362,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 69.1,
+    "flow_rate": 34.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072237+00:00",
+    "counter": 285,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 71.8,
+    "flow_rate": 38.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071696+00:00",
+    "counter": 268,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071568+00:00",
+    "counter": 262,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 72.4,
+    "flow_rate": 45.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064586+00:00",
+    "counter": 24,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065153+00:00",
+    "counter": 65,
+    "pressure_upstream": 83.2,
+    "pressure_downstream": 70.2,
+    "flow_rate": 40.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064425+00:00",
+    "counter": 9,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 70.2,
+    "flow_rate": 42.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068345+00:00",
+    "counter": 219,
+    "pressure_upstream": 77.1,
+    "pressure_downstream": 31.3,
+    "flow_rate": 39.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066125+00:00",
+    "counter": 126,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 71.9,
+    "flow_rate": 46.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064757+00:00",
+    "counter": 37,
+    "pressure_upstream": 80.3,
+    "pressure_downstream": 70.0,
+    "flow_rate": 41.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074839+00:00",
+    "counter": 349,
+    "pressure_upstream": 80.1,
+    "pressure_downstream": 69.5,
+    "flow_rate": 38.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064708+00:00",
+    "counter": 33,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 69.8,
+    "flow_rate": 38.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071476+00:00",
+    "counter": 260,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066908+00:00",
+    "counter": 165,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 68.8,
+    "flow_rate": 40.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073190+00:00",
+    "counter": 317,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 71.4,
+    "flow_rate": 40.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068537+00:00",
+    "counter": 227,
+    "pressure_upstream": 89.6,
+    "pressure_downstream": 36.8,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064860+00:00",
+    "counter": 45,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 72.6,
+    "flow_rate": 42.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064439+00:00",
+    "counter": 11,
+    "pressure_upstream": 79.0,
+    "pressure_downstream": 42.6,
+    "flow_rate": 38.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073089+00:00",
+    "counter": 316,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064777+00:00",
+    "counter": 40,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065391+00:00",
+    "counter": 81,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 68.7,
+    "flow_rate": 38.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065105+00:00",
+    "counter": 62,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 69.9,
+    "flow_rate": 32.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071806+00:00",
+    "counter": 272,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065323+00:00",
+    "counter": 77,
+    "pressure_upstream": 80.2,
+    "pressure_downstream": 70.7,
+    "flow_rate": 41.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065657+00:00",
+    "counter": 100,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065051+00:00",
+    "counter": 58,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 68.8,
+    "flow_rate": 46.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065574+00:00",
+    "counter": 93,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 72.2,
+    "flow_rate": 36.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064486+00:00",
+    "counter": 15,
+    "pressure_upstream": 89.3,
+    "pressure_downstream": 32.6,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068436+00:00",
+    "counter": 222,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 69.2,
+    "flow_rate": 32.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065838+00:00",
+    "counter": 110,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 70.9,
+    "flow_rate": 39.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067871+00:00",
+    "counter": 212,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072467+00:00",
+    "counter": 293,
+    "pressure_upstream": 82.8,
+    "pressure_downstream": 72.6,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066119+00:00",
+    "counter": 125,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 71.9,
+    "flow_rate": 40.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067404+00:00",
+    "counter": 189,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 69.2,
+    "flow_rate": 41.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065852+00:00",
+    "counter": 112,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064377+00:00",
+    "counter": 6,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 71.2,
+    "flow_rate": 35.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065111+00:00",
+    "counter": 63,
+    "pressure_upstream": 88.3,
+    "pressure_downstream": 32.2,
+    "flow_rate": 39.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067157+00:00",
+    "counter": 178,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 68.9,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066575+00:00",
+    "counter": 150,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 71.6,
+    "flow_rate": 40.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067950+00:00",
+    "counter": 213,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 71.5,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065777+00:00",
+    "counter": 107,
+    "pressure_upstream": 93.1,
+    "pressure_downstream": 40.7,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075343+00:00",
+    "counter": 364,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074675+00:00",
+    "counter": 346,
+    "pressure_upstream": 80.3,
+    "pressure_downstream": 70.0,
+    "flow_rate": 41.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066063+00:00",
+    "counter": 123,
+    "pressure_upstream": 78.6,
+    "pressure_downstream": 42.4,
+    "flow_rate": 38.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068740+00:00",
+    "counter": 236,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064251+00:00",
+    "counter": 4,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068353+00:00",
+    "counter": 220,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071676+00:00",
+    "counter": 265,
+    "pressure_upstream": 80.4,
+    "pressure_downstream": 70.5,
+    "flow_rate": 38.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067999+00:00",
+    "counter": 216,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068524+00:00",
+    "counter": 225,
+    "pressure_upstream": 83.2,
+    "pressure_downstream": 69.8,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066915+00:00",
+    "counter": 166,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 72.2,
+    "flow_rate": 35.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065165+00:00",
+    "counter": 67,
+    "pressure_upstream": 79.6,
+    "pressure_downstream": 38.3,
+    "flow_rate": 39.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068844+00:00",
+    "counter": 240,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065531+00:00",
+    "counter": 92,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065580+00:00",
+    "counter": 94,
+    "pressure_upstream": 80.4,
+    "pressure_downstream": 72.1,
+    "flow_rate": 41.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066729+00:00",
+    "counter": 158,
+    "pressure_upstream": 80.2,
+    "pressure_downstream": 70.4,
+    "flow_rate": 37.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074226+00:00",
+    "counter": 333,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 71.7,
+    "flow_rate": 42.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067772+00:00",
+    "counter": 208,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074990+00:00",
+    "counter": 353,
+    "pressure_upstream": 79.4,
+    "pressure_downstream": 70.9,
+    "flow_rate": 40.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064626+00:00",
+    "counter": 27,
+    "pressure_upstream": 86.7,
+    "pressure_downstream": 49.4,
+    "flow_rate": 36.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064729+00:00",
+    "counter": 36,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075005+00:00",
+    "counter": 355,
+    "pressure_upstream": 90.2,
+    "pressure_downstream": 35.2,
+    "flow_rate": 39.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064992+00:00",
+    "counter": 53,
+    "pressure_upstream": 82.5,
+    "pressure_downstream": 71.5,
+    "flow_rate": 37.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072820+00:00",
+    "counter": 306,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 70.8,
+    "flow_rate": 31.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064578+00:00",
+    "counter": 23,
+    "pressure_upstream": 90.0,
+    "pressure_downstream": 37.4,
+    "flow_rate": 40.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066989+00:00",
+    "counter": 169,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 70.8,
+    "flow_rate": 40.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071154+00:00",
+    "counter": 248,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065918+00:00",
+    "counter": 114,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 69.0,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066070+00:00",
+    "counter": 124,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065707+00:00",
+    "counter": 102,
+    "pressure_upstream": 82.4,
+    "pressure_downstream": 71.7,
+    "flow_rate": 46.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064242+00:00",
+    "counter": 3,
+    "pressure_upstream": 79.5,
+    "pressure_downstream": 32.2,
+    "flow_rate": 37.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071455+00:00",
+    "counter": 257,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 70.2,
+    "flow_rate": 41.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066345+00:00",
+    "counter": 138,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 71.0,
+    "flow_rate": 49.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071347+00:00",
+    "counter": 253,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 70.2,
+    "flow_rate": 41.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065911+00:00",
+    "counter": 113,
+    "pressure_upstream": 79.3,
+    "pressure_downstream": 71.1,
+    "flow_rate": 39.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066498+00:00",
+    "counter": 146,
+    "pressure_upstream": 80.9,
+    "pressure_downstream": 70.9,
+    "flow_rate": 40.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066056+00:00",
+    "counter": 122,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 70.2,
+    "flow_rate": 43.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065457+00:00",
+    "counter": 86,
+    "pressure_upstream": 80.4,
+    "pressure_downstream": 69.8,
+    "flow_rate": 35.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065271+00:00",
+    "counter": 74,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 70.9,
+    "flow_rate": 49.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067416+00:00",
+    "counter": 191,
+    "pressure_upstream": 79.7,
+    "pressure_downstream": 48.4,
+    "flow_rate": 37.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074504+00:00",
+    "counter": 343,
+    "pressure_upstream": 79.1,
+    "pressure_downstream": 35.1,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074690+00:00",
+    "counter": 348,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075483+00:00",
+    "counter": 367,
+    "pressure_upstream": 87.6,
+    "pressure_downstream": 45.0,
+    "flow_rate": 37.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064763+00:00",
+    "counter": 38,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 70.1,
+    "flow_rate": 34.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075748+00:00",
+    "counter": 374,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 71.5,
+    "flow_rate": 30.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064952+00:00",
+    "counter": 51,
+    "pressure_upstream": 84.9,
+    "pressure_downstream": 40.9,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067759+00:00",
+    "counter": 206,
+    "pressure_upstream": 82.5,
+    "pressure_downstream": 71.7,
+    "flow_rate": 38.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071789+00:00",
+    "counter": 270,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 71.1,
+    "flow_rate": 31.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074866+00:00",
+    "counter": 352,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066273+00:00",
+    "counter": 135,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 40.5,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066281+00:00",
+    "counter": 136,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072142+00:00",
+    "counter": 284,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066267+00:00",
+    "counter": 134,
+    "pressure_upstream": 81.6,
+    "pressure_downstream": 71.4,
+    "flow_rate": 48.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065045+00:00",
+    "counter": 57,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 72.3,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065065+00:00",
+    "counter": 60,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066653+00:00",
+    "counter": 154,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 69.3,
+    "flow_rate": 49.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071924+00:00",
+    "counter": 276,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072964+00:00",
+    "counter": 311,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 39.7,
+    "flow_rate": 37.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065721+00:00",
+    "counter": 104,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066743+00:00",
+    "counter": 160,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072487+00:00",
+    "counter": 296,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067753+00:00",
+    "counter": 205,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 72.5,
+    "flow_rate": 40.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064519+00:00",
+    "counter": 17,
+    "pressure_upstream": 80.5,
+    "pressure_downstream": 72.7,
+    "flow_rate": 41.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076086+00:00",
+    "counter": 381,
+    "pressure_upstream": 83.1,
+    "pressure_downstream": 71.8,
+    "flow_rate": 41.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066735+00:00",
+    "counter": 159,
+    "pressure_upstream": 94.1,
+    "pressure_downstream": 35.5,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071249+00:00",
+    "counter": 251,
+    "pressure_upstream": 79.6,
+    "pressure_downstream": 49.0,
+    "flow_rate": 37.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068825+00:00",
+    "counter": 238,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 71.6,
+    "flow_rate": 31.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066339+00:00",
+    "counter": 137,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 68.9,
+    "flow_rate": 40.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074362+00:00",
+    "counter": 338,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 69.3,
+    "flow_rate": 33.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071049+00:00",
+    "counter": 244,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074682+00:00",
+    "counter": 347,
+    "pressure_upstream": 79.6,
+    "pressure_downstream": 37.4,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066589+00:00",
+    "counter": 152,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065829+00:00",
+    "counter": 109,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 71.3,
+    "flow_rate": 37.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073075+00:00",
+    "counter": 314,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 70.1,
+    "flow_rate": 39.9
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074514+00:00",
+    "counter": 344,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067670+00:00",
+    "counter": 202,
+    "pressure_upstream": 79.6,
+    "pressure_downstream": 70.2,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066001+00:00",
+    "counter": 120,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072950+00:00",
+    "counter": 309,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 70.5,
+    "flow_rate": 42.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064715+00:00",
+    "counter": 34,
+    "pressure_upstream": 81.3,
+    "pressure_downstream": 71.6,
+    "flow_rate": 42.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065517+00:00",
+    "counter": 90,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 72.7,
+    "flow_rate": 49.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067246+00:00",
+    "counter": 183,
+    "pressure_upstream": 94.4,
+    "pressure_downstream": 33.6,
+    "flow_rate": 37.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075606+00:00",
+    "counter": 369,
+    "pressure_upstream": 80.8,
+    "pressure_downstream": 70.7,
+    "flow_rate": 41.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076253+00:00",
+    "counter": 388,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065265+00:00",
+    "counter": 73,
+    "pressure_upstream": 81.6,
+    "pressure_downstream": 70.4,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072030+00:00",
+    "counter": 280,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071257+00:00",
+    "counter": 252,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071032+00:00",
+    "counter": 242,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 72.4,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064473+00:00",
+    "counter": 13,
+    "pressure_upstream": 79.8,
+    "pressure_downstream": 71.2,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076231+00:00",
+    "counter": 385,
+    "pressure_upstream": 81.7,
+    "pressure_downstream": 69.5,
+    "flow_rate": 39.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075619+00:00",
+    "counter": 371,
+    "pressure_upstream": 79.3,
+    "pressure_downstream": 32.5,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068318+00:00",
+    "counter": 217,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 69.6,
+    "flow_rate": 42.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065770+00:00",
+    "counter": 106,
+    "pressure_upstream": 80.3,
+    "pressure_downstream": 71.8,
+    "flow_rate": 46.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065701+00:00",
+    "counter": 101,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 70.4,
+    "flow_rate": 39.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073081+00:00",
+    "counter": 315,
+    "pressure_upstream": 79.1,
+    "pressure_downstream": 36.1,
+    "flow_rate": 39.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071683+00:00",
+    "counter": 266,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 71.9,
+    "flow_rate": 39.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064812+00:00",
+    "counter": 42,
+    "pressure_upstream": 83.2,
+    "pressure_downstream": 69.5,
+    "flow_rate": 43.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065594+00:00",
+    "counter": 96,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074109+00:00",
+    "counter": 330,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 69.8,
+    "flow_rate": 41.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.076111+00:00",
+    "counter": 384,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064666+00:00",
+    "counter": 30,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 72.3,
+    "flow_rate": 38.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072593+00:00",
+    "counter": 299,
+    "pressure_upstream": 82.3,
+    "pressure_downstream": 45.8,
+    "flow_rate": 40.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068638+00:00",
+    "counter": 232,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.074233+00:00",
+    "counter": 334,
+    "pressure_upstream": 82.5,
+    "pressure_downstream": 71.5,
+    "flow_rate": 39.1
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071353+00:00",
+    "counter": 254,
+    "pressure_upstream": 81.2,
+    "pressure_downstream": 69.1,
+    "flow_rate": 42.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065451+00:00",
+    "counter": 85,
+    "pressure_upstream": 82.6,
+    "pressure_downstream": 69.6,
+    "flow_rate": 41.3
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065228+00:00",
+    "counter": 72,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064827+00:00",
+    "counter": 44,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075476+00:00",
+    "counter": 366,
+    "pressure_upstream": 82.2,
+    "pressure_downstream": 72.3,
+    "flow_rate": 47.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064634+00:00",
+    "counter": 28,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064660+00:00",
+    "counter": 29,
+    "pressure_upstream": 81.5,
+    "pressure_downstream": 70.2,
+    "flow_rate": 39.8
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066050+00:00",
+    "counter": 121,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 70.5,
+    "flow_rate": 39.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067584+00:00",
+    "counter": 198,
+    "pressure_upstream": 80.6,
+    "pressure_downstream": 71.5,
+    "flow_rate": 45.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067321+00:00",
+    "counter": 186,
+    "pressure_upstream": 80.2,
+    "pressure_downstream": 71.4,
+    "flow_rate": 32.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065784+00:00",
+    "counter": 108,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071012+00:00",
+    "counter": 241,
+    "pressure_upstream": 81.0,
+    "pressure_downstream": 72.0,
+    "flow_rate": 42.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068631+00:00",
+    "counter": 231,
+    "pressure_upstream": 83.7,
+    "pressure_downstream": 39.3,
+    "flow_rate": 41.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066667+00:00",
+    "counter": 156,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075762+00:00",
+    "counter": 376,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071133+00:00",
+    "counter": 245,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 72.1,
+    "flow_rate": 41.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072580+00:00",
+    "counter": 297,
+    "pressure_upstream": 82.7,
+    "pressure_downstream": 69.0,
+    "flow_rate": 39.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067150+00:00",
+    "counter": 177,
+    "pressure_upstream": 82.1,
+    "pressure_downstream": 69.4,
+    "flow_rate": 41.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.075145+00:00",
+    "counter": 360,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066416+00:00",
+    "counter": 141,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 72.4,
+    "flow_rate": 39.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.064873+00:00",
+    "counter": 47,
+    "pressure_upstream": 85.0,
+    "pressure_downstream": 38.8,
+    "flow_rate": 36.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072479+00:00",
+    "counter": 295,
+    "pressure_upstream": 84.4,
+    "pressure_downstream": 37.9,
+    "flow_rate": 41.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072368+00:00",
+    "counter": 291,
+    "pressure_upstream": 81.8,
+    "pressure_downstream": 46.2,
+    "flow_rate": 37.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066647+00:00",
+    "counter": 153,
+    "pressure_upstream": 83.0,
+    "pressure_downstream": 70.4,
+    "flow_rate": 40.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.067677+00:00",
+    "counter": 203,
+    "pressure_upstream": 86.0,
+    "pressure_downstream": 42.9,
+    "flow_rate": 38.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.065643+00:00",
+    "counter": 98,
+    "pressure_upstream": 81.1,
+    "pressure_downstream": 68.8,
+    "flow_rate": 43.4
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.071582+00:00",
+    "counter": 264,
+    "pressure_upstream": 82.0,
+    "pressure_downstream": 82.0,
+    "flow_rate": 82.0
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066194+00:00",
+    "counter": 130,
+    "pressure_upstream": 81.4,
+    "pressure_downstream": 69.8,
+    "flow_rate": 30.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066659+00:00",
+    "counter": 155,
+    "pressure_upstream": 87.8,
+    "pressure_downstream": 34.4,
+    "flow_rate": 36.6
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.073217+00:00",
+    "counter": 319,
+    "pressure_upstream": 82.4,
+    "pressure_downstream": 41.5,
+    "flow_rate": 39.5
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.066423+00:00",
+    "counter": 142,
+    "pressure_upstream": 79.9,
+    "pressure_downstream": 71.3,
+    "flow_rate": 45.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072244+00:00",
+    "counter": 286,
+    "pressure_upstream": 81.9,
+    "pressure_downstream": 70.3,
+    "flow_rate": 38.7
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.068819+00:00",
+    "counter": 237,
+    "pressure_upstream": 80.2,
+    "pressure_downstream": 69.9,
+    "flow_rate": 39.2
+  },
+  {
+    "device_id": "GM-HYDROLOGIC-01",
+    "timestamp": "2026-08-17T06:24:23.072122+00:00",
+    "counter": 281,
+    "pressure_upstream": 80.7,
+    "pressure_downstream": 72.2,
+    "flow_rate": 40.8
+  }
+]
